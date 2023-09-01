@@ -5,7 +5,6 @@ const UserForm = () => {
         <>
             <div className="container">
                 <h1>Instagram</h1>
-                <h3>Sign Up</h3>
                 <input type="text" placeholder="Mobile No. or Email" />
                 <input type="text" name="" id="" placeholder="Full Name" />
                 <input type="password" name="" id="" placeholder="Password" />
